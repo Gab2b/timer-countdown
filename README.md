@@ -1,13 +1,11 @@
-# <img src="https://extensions.gnome.org/extension-data/icons/icon_5910_OdYKqhD.png"  width="3%"> YKS TIMER
+# Timer Countdown
 
-YKS TIMER is a handy gnome shell extension that displays the remaining time until the YKS (Yükseköğretim Kurumları Sınavı) exam, which is a national higher education entrance exam in Turkey. With this extension, you can easily keep track of the time left until the exam day right from your panel.
+Timer Countdown is (or will may be) a gnome shell extension that displays the remaining time until a date you will choose yourself ;)
+With this extension, you can easily keep track of the time left until an exam day, a travel  or much more other events !
 
 The countdown is displayed in the panel, so it doesn't take up space on your desktop and is always easily accessible.
 
-Stay on top of your YKS exam preparation with YKS TIMER and never miss an important deadline again!
+This repo is highly inspired by the [deadline-timer](https://github.com/patwork/deadline-timer) of patwork and its actually a fork of YKS Timer.
+You can go check it [here](https://extensions.gnome.org/extension/5910/yks-timer/) and [there](https://github.com/ysfsvm/yks-timer) !
 
-![screenshot](https://raw.githubusercontent.com/ysfsvm/yks-timer/master/screenshot.png)
-
-Tested on Gnome Shell v43 and v44.
-
-## Fork of https://github.com/patwork/deadline-timer
+## Fork of https://github.com/ysfsvm/yks-timer
